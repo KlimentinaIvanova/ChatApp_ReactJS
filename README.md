@@ -2,7 +2,8 @@ ChatApp_ReactJS Documentation
 Introduction
 ChatApp_ReactJS is a web application built using ReactJS that allows users to engage in real-time chat conversations. It provides a user-friendly interface where users can send and receive messages, view online users, and join multiple chat rooms. This documentation will guide you through the setup, features, and usage of the ChatApp_ReactJS application.
 
-Table of Contents
+Table of Contents:
+
 Installation
 Usage
 Features

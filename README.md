@@ -27,7 +27,7 @@ Install the dependencies using npm or yarn:
 
 Copy code
 npm install
-# or
+or
 yarn install
 Create a .env file in the project root directory and provide the required environment variables. You can use the .env.example file as a reference.
 
@@ -35,7 +35,7 @@ Start the development server:
 
 Copy code
 npm start
-# or
+or
 yarn start
 Open your browser and visit http://localhost:3000 to access the ChatApp_ReactJS application.
 
@@ -51,18 +51,21 @@ Customize your profile settings.
 Features
 
 User Authentication
+
 Users can create a new account with a unique username and password.
 Existing users can log in with their credentials.
 Authentication is implemented using local storage for simplicity.
 User login credentials are stored locally and used for authentication.
 
 Real-time Chat
+
 Users can send and receive messages in real-time using the React Chat Engine library.
 Messages are displayed in a threaded chat format.
 The chat interface automatically scrolls to the latest message.
 Each message displays the sender's username, timestamp, and content.
 
 Joining Chat Rooms
+
 Users can join existing chat rooms to engage in specific conversations.
 They can view the list of available chat rooms.
 Users have the option to create new chat rooms.
@@ -70,11 +73,13 @@ Each chat room displays the number of participants.
 When joining a chat room, users can see the conversation history.
 
 Viewing Online Users
+
 Users can see a list of online users who are currently active in the application.
 The list dynamically updates when users go online or offline.
 Each user is identified by their username.
 
 Contributing
+
 Contributions to ChatApp_ReactJS are welcome! If you'd like to contribute to the project, please follow these steps:
 
 Fork the repository on GitHub.

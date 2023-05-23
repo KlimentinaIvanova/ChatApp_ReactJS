@@ -5,15 +5,25 @@ ChatApp_ReactJS is a web application built using ReactJS that allows users to en
 Table of Contents:
 
 Installation
+
 Usage
+
 Features
+
 User Authentication
+
 Real-time Chat
+
 Joining Chat Rooms
+
 Viewing Online Users
+
 Contributing
+
 License
+
 Installation
+
 To install and run the ChatApp_ReactJS application locally, follow these steps:
 
 Clone the repository:
